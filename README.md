@@ -20,6 +20,14 @@
  
   ##
   
+  <div>
+  
+ 
+ 
+
+ 
+  <a href="https://https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact_info%3BYhx%2BtHwATlyaVlIDYNe9ZA%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>
   
   
   
