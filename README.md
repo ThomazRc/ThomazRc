@@ -18,7 +18,10 @@
   <img align="center" alt="Thomaz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img img align="center" alt="Thomaz-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
  
-  
   ##
+  
+  
+  
+  
   
 
