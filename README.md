@@ -19,9 +19,11 @@
   <img align="center" alt="Thomaz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img img align="center" alt="Thomaz-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
  
-  ##
+  
   
   <div>
+    <!-- ## 🔗 &nbsp;Links -->
+<h2><img height="20px" src="https://user-images.githubusercontent.com/50364832/143620129-a7cf3435-8c3d-45f1-89fc-a64836558c39.gif" /> Socials</h2>
   <a href="https://www.linkedin.com/in/thomaz-rosseti-coelho-ti369/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
   
