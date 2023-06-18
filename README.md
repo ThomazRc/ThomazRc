@@ -1,5 +1,5 @@
-### Olá!! 😆  
-**Eu sou o ThomazRc**
+### Hello world, i'm Thomaz^^
+***Welcome to my Profile***
 
 ##
 
